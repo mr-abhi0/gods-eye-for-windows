@@ -7,7 +7,7 @@ import re
 import webbrowser
 from figlet import figlet
 
-print("                                       -by dellano samuel fernandez")
+print("                                       -by Mr Abhi ")
 engine = pyttsx3.init('sapi5')
 
 
